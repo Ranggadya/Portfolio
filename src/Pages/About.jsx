@@ -285,7 +285,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              Saya adalah seorang Web Developer dengan semangat untuk terus belajar dan berkembang. Dengan kemampuan di bidang front-end dan back-end, saya membangun website yang tidak hanya menarik secara visual, tetapi juga cepat, aman, dan scalable.
+             Software Engineer yang memiliki ketertarikan tinggi dalam membangun aplikasi web yang fungsional, responsif, dan ramah pengguna. Saya senang bekerja di seluruh bagian pengembangan—mulai dari merancang antarmuka, hingga mengembangkan backend
             </p>
 
             {/* Quote Section
